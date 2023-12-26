@@ -9,3 +9,8 @@
 3. The user can update a URL in the PUBLICATIONS table with the corresponding URL obtained from url.csv by providing the PUBLICATIONID. After the update, the resultingb updated tuple is displayed.
 4. No type of invalid input can cause the program to crash.
 5. The required paper.sql file and url.csv file present in the *req* folder.
+
+## To run: 
+1. Navigate to AppCLI -> src /  AppGUI -> src (Depending on whether you want to use CLI or GUI)
+2. Open cmd in that directory 
+3. Run the command : java -cp ".;ojdbc11.jar" App
