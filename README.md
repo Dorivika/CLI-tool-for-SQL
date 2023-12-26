@@ -1,5 +1,5 @@
 # CLI-tool-for-SQL
-##This application uses JDBC to interact with a SQL script and update a particular url.csv that it is referencing. Wrote it for fun to practice JAVA and get some experience with JDBC.
+This application uses JDBC to interact with a SQL script and update a particular url.csv that it is referencing. Wrote it for fun to practice JAVA and get some experience with JDBC.
 
 ### Repo has both CLI and GUI interface for the applicaiton.
 
